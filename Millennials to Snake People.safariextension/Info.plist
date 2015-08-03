@@ -5,7 +5,7 @@
 	<key>Author</key>
 	<string>Alexsander Akers</string>
 	<key>Builder Version</key>
-	<string>10600.6.3</string>
+	<string>11601.1.41</string>
 	<key>CFBundleDisplayName</key>
 	<string>Millennials to Snake People</string>
 	<key>CFBundleIdentifier</key>
@@ -13,9 +13,9 @@
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
 	<key>CFBundleShortVersionString</key>
-	<string>1.0</string>
+	<string>1.3</string>
 	<key>CFBundleVersion</key>
-	<string>1</string>
+	<string>1.3</string>
 	<key>Chrome</key>
 	<dict/>
 	<key>Content</key>
@@ -45,7 +45,7 @@
 		</dict>
 	</dict>
 	<key>Update Manifest URL</key>
-	<string>https://a2.github.io/</string>
+	<string>https://a2.github.io/millennials-to-snake-people/update-manifest.plist</string>
 	<key>Website</key>
 	<string>https://github.com/a2/millennials-to-snake-people</string>
 </dict>
